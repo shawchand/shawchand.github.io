@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages soon
+## Welcome to GitHub Pages Minimal Theme
 
 You can use the [editor on GitHub](https://github.com/shawchand/shawchand.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
